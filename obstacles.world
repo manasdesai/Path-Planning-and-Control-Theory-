@@ -1706,6 +1706,7 @@
         <pose frame=''>-9.03387 -1.54102 6.86246 -0 0.353797 0.053823</pose>
         <view_controller>orbit</view_controller>
         <projection_type>perspective</projection_type>
+        
       </camera>
     </gui>
   </world>
